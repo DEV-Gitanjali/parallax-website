@@ -1,4 +1,7 @@
+/* this line code for html & body design */
+
 html,body{
+
 
     height: 100%;
     margin: 0;
@@ -8,6 +11,7 @@ html,body{
     line-height: 1.8em;
     color: #666;
 }
+/* this line of code for image-background height */
 .pimg1{
 
     background-image: url(images/image1.png);
@@ -15,12 +19,14 @@ html,body{
     
     
 }
+/* this line of second image background and height */
 .pimg2{
     background-image: url(images/image2.png);
     min-height: 400px;
     
     
 }
+/* this line for code for third image background and height */
 
 .pimg3{
     background-image: url(images/image3.png);
@@ -28,6 +34,7 @@ html,body{
     
     
 }
+/* this line code for all images position background-size,repeat  */
 
 .pimg1,.pimg2,.pimg3{
     
@@ -37,6 +44,7 @@ html,body{
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
+/* this line of code for text area */
 .text{
     position: absolute;
     top: 50%;
@@ -49,14 +57,14 @@ html,body{
 
 
 }
-
+/* this line code for textbg  */
 .textbg{
     background-color: #313534;
     color: #dbe1e0;
     padding: 20px;
 
 }
-
+/* section light  */
 .section_light{
     padding: 50px  80px ;
     text-align: center;
@@ -64,12 +72,14 @@ html,body{
     color: #666;
 
 }
+/* section dark  */
 .section_dark{
     background-color: #f4f4f4;
     color: #666;
     padding: 50px  80px ;
     text-align: center;
 }
+/* section bright */
 .section_bright{
 
     background-color: #f4f4f4;
